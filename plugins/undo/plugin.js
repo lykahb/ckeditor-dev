@@ -152,7 +152,7 @@
 			 * Locks the undo manager to prevent any save/update operations.
 			 *
 			 * It is convenient to lock the undo manager before performing DOM operations
-			 * that should not be recored (e.g. auto paragraphing).
+			 * that should not be recorded (e.g. auto paragraphing).
 			 *
 			 * See {@link CKEDITOR.plugins.undo.UndoManager#lock} for more details.
 			 *
